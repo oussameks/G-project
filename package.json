@@ -1,0 +1,22 @@
+{
+  "name": "g-project",
+  "version": "1.0.0",
+  "description": "This is a G-project to learn Git and Node, coursera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oussameks/G-project.git"
+  },
+  "author": "Oussama Elmeskini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oussameks/G-project/issues"
+  },
+  "homepage": "https://github.com/oussameks/G-project#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
